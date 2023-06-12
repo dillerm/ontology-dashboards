@@ -33,7 +33,7 @@ ontologies:
     - id: apollo-sv
       mirror_from: "https://raw.githubusercontent.com/ApolloDev/apollo-sv/main/apollo_sv.owl"
     - id: omrse
-    mirror_from: "https://raw.githubusercontent.com/ufbmi/OMRSE/main/omrse.owl"
+      mirror_from: "https://raw.githubusercontent.com/ufbmi/OMRSE/main/omrse.owl"
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
