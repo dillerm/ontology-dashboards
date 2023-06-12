@@ -29,6 +29,7 @@ obo_score_weights:
     impact_factor: 1
     max_impact: 1
 ontologies:
+  registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   custom:
     - id: tmp
       mirror_from: "https://raw.githubusercontent.com/monarch-ebi-dev/robot_tests/master/custom-dashboard.owl"
