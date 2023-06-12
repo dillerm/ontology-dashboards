@@ -1,0 +1,200 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	deprecated_class_reference	OMRSE:00000024	rdfs:subClassOf	BFO:0000023
+ERROR	deprecated_class_reference	OMRSE:00000083	rdfs:subClassOf	OMRSE:00000100
+ERROR	deprecated_class_reference	OMRSE:00000083	rdfs:subClassOf	OMRSE:00000127
+ERROR	deprecated_class_reference	OMRSE:00000083	rdfs:subClassOf	OMRSE:00000128
+ERROR	deprecated_class_reference	OMRSE:00000085	rdfs:subClassOf	OMRSE:00000001
+ERROR	deprecated_class_reference	OMRSE:00000098	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid301
+ERROR	deprecated_class_reference	OMRSE:00000098	rdfs:subClassOf	OMRSE:00000132
+ERROR	deprecated_class_reference	OMRSE:00000098	rdfs:subClassOf	OMRSE:00000185
+ERROR	deprecated_class_reference	OMRSE:00000098	owl:equivalentClass	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid292
+ERROR	deprecated_class_reference	OMRSE:00000100	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid317
+ERROR	deprecated_class_reference	OMRSE:00000100	rdfs:subClassOf	OMRSE:00000083
+ERROR	deprecated_class_reference	OMRSE:00000100	rdfs:subClassOf	OMRSE:00000132
+ERROR	deprecated_class_reference	OMRSE:00000100	owl:equivalentClass	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid308
+ERROR	deprecated_class_reference	OMRSE:00000127	rdfs:subClassOf	OMRSE:00000083
+ERROR	deprecated_class_reference	OMRSE:00000128	rdfs:subClassOf	OMRSE:00000083
+ERROR	deprecated_class_reference	OMRSE:00000132	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid380
+ERROR	deprecated_class_reference	OMRSE:00000132	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid381
+ERROR	deprecated_class_reference	OMRSE:00000132	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid383
+ERROR	deprecated_class_reference	OMRSE:00000132	rdfs:subClassOf	OMRSE:00000098
+ERROR	deprecated_class_reference	OMRSE:00000132	rdfs:subClassOf	OMRSE:00000100
+ERROR	deprecated_class_reference	OMRSE:00000132	rdfs:subClassOf	OMRSE:00000133
+ERROR	deprecated_class_reference	OMRSE:00000132	rdfs:subClassOf	OMRSE:00000145
+ERROR	deprecated_class_reference	OMRSE:00000132	rdfs:subClassOf	OMRSE:00000179
+ERROR	deprecated_class_reference	OMRSE:00000132	owl:equivalentClass	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid371
+ERROR	deprecated_class_reference	OMRSE:00000133	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid393
+ERROR	deprecated_class_reference	OMRSE:00000133	rdfs:subClassOf	OMRSE:00000132
+ERROR	deprecated_class_reference	OMRSE:00000133	rdfs:subClassOf	OMRSE:00000138
+ERROR	deprecated_class_reference	OMRSE:00000133	rdfs:subClassOf	OMRSE:00000141
+ERROR	deprecated_class_reference	OMRSE:00000133	rdfs:subClassOf	OMRSE:00000507
+ERROR	deprecated_class_reference	OMRSE:00000133	owl:equivalentClass	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid384
+ERROR	deprecated_class_reference	OMRSE:00000138	rdfs:subClassOf	OMRSE:00000133
+ERROR	deprecated_class_reference	OMRSE:00000141	rdfs:subClassOf	OMRSE:00000133
+ERROR	deprecated_class_reference	OMRSE:00000145	rdfs:subClassOf	OMRSE:00000132
+ERROR	deprecated_class_reference	OMRSE:00000162	rdfs:subClassOf	IAO:0021003
+ERROR	deprecated_class_reference	OMRSE:00000168	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid436
+ERROR	deprecated_class_reference	OMRSE:00000168	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid437
+ERROR	deprecated_class_reference	OMRSE:00000168	rdfs:subClassOf	BFO:0000003
+ERROR	deprecated_class_reference	OMRSE:00000168	rdfs:subClassOf	OMRSE:00000176
+ERROR	deprecated_class_reference	OMRSE:00000173	rdfs:subClassOf	BFO:0000040
+ERROR	deprecated_class_reference	OMRSE:00000176	rdfs:subClassOf	OMRSE:00000168
+ERROR	deprecated_class_reference	OMRSE:00000176	rdfs:subClassOf	OMRSE:00000177
+ERROR	deprecated_class_reference	OMRSE:00000176	rdfs:subClassOf	OMRSE:00000178
+ERROR	deprecated_class_reference	OMRSE:00000177	rdfs:subClassOf	OMRSE:00000176
+ERROR	deprecated_class_reference	OMRSE:00000178	rdfs:subClassOf	OMRSE:00000176
+ERROR	deprecated_class_reference	OMRSE:00000180	rdfs:subClassOf	OMRSE:00000185
+ERROR	deprecated_class_reference	OMRSE:00000181	rdfs:subClassOf	OMRSE:00000185
+ERROR	deprecated_class_reference	OMRSE:00000182	rdfs:subClassOf	OMRSE:00000185
+ERROR	deprecated_class_reference	OMRSE:00000183	rdfs:subClassOf	OMRSE:00000185
+ERROR	deprecated_class_reference	OMRSE:00000184	rdfs:subClassOf	OMRSE:00000185
+ERROR	deprecated_class_reference	OMRSE:00000185	rdfs:subClassOf	OMRSE:00000098
+ERROR	deprecated_class_reference	OMRSE:00000185	rdfs:subClassOf	OMRSE:00000180
+ERROR	deprecated_class_reference	OMRSE:00000185	rdfs:subClassOf	OMRSE:00000181
+ERROR	deprecated_class_reference	OMRSE:00000185	rdfs:subClassOf	OMRSE:00000182
+ERROR	deprecated_class_reference	OMRSE:00000185	rdfs:subClassOf	OMRSE:00000183
+ERROR	deprecated_class_reference	OMRSE:00000185	rdfs:subClassOf	OMRSE:00000184
+ERROR	deprecated_class_reference	OMRSE:00000192	rdfs:subClassOf	OMRSE:00000196
+ERROR	deprecated_class_reference	OMRSE:00000196	rdfs:subClassOf	e0d4dcab-ecde-43ff-abb0-2b64bfd0a8f8genid454
+ERROR	deprecated_class_reference	OMRSE:00000196	rdfs:subClassOf	OBI:0000011
+ERROR	deprecated_class_reference	OMRSE:00000196	rdfs:subClassOf	OMRSE:00000192
+ERROR	deprecated_class_reference	OMRSE:00000507	rdfs:subClassOf	OMRSE:00000133
+ERROR	deprecated_property_reference	OMRSE:00000022	OMRSE:00000020	blank node
+ERROR	deprecated_property_reference	OMRSE:00000023	OMRSE:00000020	blank node
+ERROR	deprecated_property_reference	OMRSE:00000033	OMRSE:00000020	blank node
+ERROR	duplicate_label	OMRSE:00000024	rdfs:label	role in human social processes@en
+ERROR	duplicate_label	OMRSE:00002072	rdfs:label	role in human social processes@en
+ERROR	missing_ontology_description	http://purl.obolibrary.org/obo/omrse.owl	dc:description	
+ERROR	missing_ontology_title	http://purl.obolibrary.org/obo/omrse.owl	dc:title	
+ERROR	multiple_definitions	OMRSE:00000022	IAO:0000115	An object aggregate of objectual organisms.@en
+ERROR	multiple_definitions	OMRSE:00000022	IAO:0000115	An object aggregate of organisms.@en
+ERROR	multiple_definitions	OMRSE:00000033	IAO:0000115	An aggregate of organizations that have some feature in common, but is not itself an organization.@en
+ERROR	multiple_definitions	OMRSE:00000033	IAO:0000115	An object aggregate that is not itself an organization and whose members are only organizations that have some feature in common@en
+ERROR	multiple_labels	OMRSE:00000022	rdfs:label	aggregate of objectual organisms@en
+ERROR	multiple_labels	OMRSE:00000022	rdfs:label	collection of organisms@en
+WARN	annotation_whitespace	OMRSE:00000010	IAO:0000115	A role in human social processes that is realized by health care processes such as seeking or providing treatment for disease and injury, diagnosing disease and injury, or undergoing diagnosis. @en
+WARN	equivalent_class_axiom_no_genus	OMRSE:00000022	OMRSE:00000020	OBI:0100026
+WARN	equivalent_class_axiom_no_genus	OMRSE:00000023	OMRSE:00000020	NCBITaxon:9606
+WARN	equivalent_class_axiom_no_genus	OMRSE:00000033	OMRSE:00000020	OBI:0000245
+WARN	equivalent_class_axiom_no_genus	OMRSE:00000232	OBI:0000312	OMRSE:00000231
+WARN	missing_definition	OMRSE:00000002	IAO:0000115	
+WARN	missing_definition	OMRSE:00000003	IAO:0000115	
+WARN	missing_definition	OMRSE:00000004	IAO:0000115	
+WARN	missing_definition	OMRSE:00000005	IAO:0000115	
+WARN	missing_definition	OMRSE:00000006	IAO:0000115	
+WARN	missing_definition	OMRSE:00000016	IAO:0000115	
+WARN	missing_definition	OMRSE:00000040	IAO:0000115	
+WARN	missing_definition	OMRSE:00000048	IAO:0000115	
+WARN	missing_definition	OMRSE:00000049	IAO:0000115	
+WARN	missing_definition	OMRSE:00000050	IAO:0000115	
+WARN	missing_definition	OMRSE:00000051	IAO:0000115	
+WARN	missing_definition	OMRSE:00000055	IAO:0000115	
+WARN	missing_definition	OMRSE:00000059	IAO:0000115	
+WARN	missing_definition	OMRSE:00000060	IAO:0000115	
+WARN	missing_definition	OMRSE:00000065	IAO:0000115	
+WARN	missing_definition	OMRSE:00000068	IAO:0000115	
+WARN	missing_definition	OMRSE:00000070	IAO:0000115	
+WARN	missing_definition	OMRSE:00000071	IAO:0000115	
+WARN	missing_definition	OMRSE:00000078	IAO:0000115	
+WARN	missing_definition	OMRSE:00000084	IAO:0000115	
+WARN	missing_definition	OMRSE:00000088	IAO:0000115	
+WARN	missing_definition	OMRSE:00000095	IAO:0000115	
+WARN	missing_definition	OMRSE:00000096	IAO:0000115	
+WARN	missing_definition	OMRSE:00000097	IAO:0000115	
+WARN	missing_definition	OMRSE:00000099	IAO:0000115	
+WARN	missing_definition	OMRSE:00000101	IAO:0000115	
+WARN	missing_definition	OMRSE:00000102	IAO:0000115	
+WARN	missing_definition	OMRSE:00000105	IAO:0000115	
+WARN	missing_definition	OMRSE:00000109	IAO:0000115	
+WARN	missing_definition	OMRSE:00000111	IAO:0000115	
+WARN	missing_definition	OMRSE:00000112	IAO:0000115	
+WARN	missing_definition	OMRSE:00000113	IAO:0000115	
+WARN	missing_definition	OMRSE:00000115	IAO:0000115	
+WARN	missing_definition	OMRSE:00000116	IAO:0000115	
+WARN	missing_definition	OMRSE:00000117	IAO:0000115	
+WARN	missing_definition	OMRSE:00000118	IAO:0000115	
+WARN	missing_definition	OMRSE:00000119	IAO:0000115	
+WARN	missing_definition	OMRSE:00000120	IAO:0000115	
+WARN	missing_definition	OMRSE:00000121	IAO:0000115	
+WARN	missing_definition	OMRSE:00000122	IAO:0000115	
+WARN	missing_definition	OMRSE:00000123	IAO:0000115	
+WARN	missing_definition	OMRSE:00000125	IAO:0000115	
+WARN	missing_definition	OMRSE:00000131	IAO:0000115	
+WARN	missing_definition	OMRSE:00000134	IAO:0000115	
+WARN	missing_definition	OMRSE:00000135	IAO:0000115	
+WARN	missing_definition	OMRSE:00000136	IAO:0000115	
+WARN	missing_definition	OMRSE:00000137	IAO:0000115	
+WARN	missing_definition	OMRSE:00000139	IAO:0000115	
+WARN	missing_definition	OMRSE:00000143	IAO:0000115	
+WARN	missing_definition	OMRSE:00000149	IAO:0000115	
+WARN	missing_definition	OMRSE:00000151	IAO:0000115	
+WARN	missing_definition	OMRSE:00000152	IAO:0000115	
+WARN	missing_definition	OMRSE:00000154	IAO:0000115	
+WARN	missing_definition	OMRSE:00000155	IAO:0000115	
+WARN	missing_definition	OMRSE:00000156	IAO:0000115	
+WARN	missing_definition	OMRSE:00000158	IAO:0000115	
+WARN	missing_definition	OMRSE:00000160	IAO:0000115	
+WARN	missing_definition	OMRSE:00000163	IAO:0000115	
+WARN	missing_definition	OMRSE:00000164	IAO:0000115	
+WARN	missing_definition	OMRSE:00000165	IAO:0000115	
+WARN	missing_definition	OMRSE:00000166	IAO:0000115	
+WARN	missing_definition	OMRSE:00000167	IAO:0000115	
+WARN	missing_definition	OMRSE:00000169	IAO:0000115	
+WARN	missing_definition	OMRSE:00000170	IAO:0000115	
+WARN	missing_definition	OMRSE:00000171	IAO:0000115	
+WARN	missing_definition	OMRSE:00000172	IAO:0000115	
+WARN	missing_definition	OMRSE:00000174	IAO:0000115	
+WARN	missing_definition	OMRSE:00000175	IAO:0000115	
+WARN	missing_definition	OMRSE:00000179	IAO:0000115	
+WARN	missing_definition	OMRSE:00000188	IAO:0000115	
+WARN	missing_definition	OMRSE:00000189	IAO:0000115	
+WARN	missing_definition	OMRSE:00000190	IAO:0000115	
+WARN	missing_definition	OMRSE:00000501	IAO:0000115	
+WARN	missing_definition	OMRSE:00000502	IAO:0000115	
+WARN	missing_definition	OMRSE:00000503	IAO:0000115	
+WARN	missing_definition	OMRSE:00000504	IAO:0000115	
+WARN	missing_definition	OMRSE:00000505	IAO:0000115	
+WARN	missing_definition	OMRSE:00000506	IAO:0000115	
+WARN	missing_definition	OMRSE:00002025	IAO:0000115	
+WARN	missing_definition	OMRSE:00002026	IAO:0000115	
+WARN	missing_definition	OMRSE:00002027	IAO:0000115	
+WARN	missing_definition	OMRSE:00002028	IAO:0000115	
+WARN	missing_definition	OMRSE:00002042	IAO:0000115	
+WARN	missing_obsolete_label	OMRSE:00000024	rdfs:label	role in human social processes@en
+WARN	missing_obsolete_label	OMRSE:00000168	rdfs:label	questions asking process@en
+WARN	missing_obsolete_label	OMRSE:00000173	rdfs:label	material information bearer of question text plus answer set@en
+WARN	missing_obsolete_label	OMRSE:00000176	rdfs:label	identity question asking process@en
+WARN	missing_obsolete_label	OMRSE:00000177	rdfs:label	ethnic identity question asking process@en
+WARN	missing_obsolete_label	OMRSE:00000178	rdfs:label	race identity question asking process@en
+WARN	missing_xrefs	OMRSE:00000000	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000001	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000002	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000003	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000004	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000005	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000006	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000007	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000008	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000009	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000010	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000011	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000012	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000013	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000014	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000015	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000016	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000017	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000019	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000022	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000023	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000025	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000026	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000027	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000030	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000033	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000038	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000039	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000040	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000048	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000049	oboInOwl:hasDbXref	
+WARN	missing_xrefs	OMRSE:00000050	oboInOwl:hasDbXref	
