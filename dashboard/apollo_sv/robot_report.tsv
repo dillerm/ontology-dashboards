@@ -1,0 +1,200 @@
+Level	Rule Name	Subject	Property	Value
+WARN	annotation_whitespace	APOLLO_SV:00000012	IAO:0000600	"A number of time step units in a time step of a simulation.  
+
+For example, if the time step is 6 hours, then this value is 6.
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000015	IAO:0000600	"The number of time steps in a simulator run.
+
+For example, if run length is 10 and the time step is 6 hours, then the simulator will simulate a 60-hour period that begins at simulator time zero.
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000017	IAO:0000600	"A period during which an organism of a particular species, who is infected with a particular pathogen, is not yet able to infect susceptible organisms of a particular species.  
+
+Note that the susceptible and infected organisms can be of different species.
+
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000022	IAO:0000600	The number of simulated organisms in a simulated population.  The number does not have to be an integer.  @en
+WARN	annotation_whitespace	APOLLO_SV:00000023	IAO:0000600	A vaccination schedule specifies the intended timing of initial and subsequent booster doses of vaccine for an individual organism. @en
+WARN	annotation_whitespace	APOLLO_SV:00000029	IAO:0000115	A process that is applied to a population with the goal of preventing, or mitigating the severity of an infectious disease.  @en
+WARN	annotation_whitespace	APOLLO_SV:00000029	IAO:0000600	A process that is applied to a population with the goal of preventing, or mitigating the severity of an infectious disease.  @en
+WARN	annotation_whitespace	APOLLO_SV:00000041	IAO:0000115	A simulated organism in a simulated population that is not susceptible. @en
+WARN	annotation_whitespace	APOLLO_SV:00000041	IAO:0000600	"A simulated organism in a simulated population that is neither susceptible, exposed, nor infectious for a particular simulated disease. 
+Note that the name for this concept, were it to be named based on its intent, would be ‘immune.’  However, in the practice domain of epidemiology this concept is traditionally termed ‘recovered.’  The problem with the traditional name is that organisms can be considered ‘recovered’ by virtue of having been vaccinated, which differs from lay usage.
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000043	IAO:0000115	The average value of transmissions of the infectious agent from one infected organism to another, resulting in an infection. @en
+WARN	annotation_whitespace	APOLLO_SV:00000049	IAO:0000115	The value of the time interval between an organism's taking antivirals against a specific infectious agent and the organism’s losing its infectious agent host role. @en
+WARN	annotation_whitespace	APOLLO_SV:00000049	IAO:0000600	The duration of time (expressed in time steps) between initiation of a particular antiviral treatment to an organism and when the organism becomes non infectious or, if the antiviral is being administered prophylactically, protected from infection. @en
+WARN	annotation_whitespace	APOLLO_SV:00000050	IAO:0000600	The fraction of individuals in a simulated population that will accept antiviral treatment if offered. @en
+WARN	annotation_whitespace	APOLLO_SV:00000051	IAO:0000115	An action specification giving the number of doses of an antiviral to be made available during a specific time interval. @en
+WARN	annotation_whitespace	APOLLO_SV:00000057	IAO:0000115	A relation between to particulars such that aRb where b can be any kind of entity while the second is a universal. b instantiates a at some times. @en
+WARN	annotation_whitespace	APOLLO_SV:00000060	IAO:0000115	The simulation of an antiviral control measure. 
+WARN	annotation_whitespace	APOLLO_SV:00000070	IAO:0000115	"A purely intentional entity that simulates an entity and its properties.
+
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000070	IAO:0000600	"A purely intentional entity that simulates an entity and its properties.
+
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000084	IAO:0000600	A control strategy dose schedule specifies the intended timing of initial and subsequent doses of for example a vaccine or an antiviral for an individual organism. @en
+WARN	annotation_whitespace	APOLLO_SV:00000097	IAO:0000115	The sum of all biotic and abiotic entities in a geographical region. @en
+WARN	annotation_whitespace	APOLLO_SV:00000097	IAO:0000600	The sum of all biotic and abiotic entities in a geographical region. @en
+WARN	annotation_whitespace	APOLLO_SV:00000115	IAO:0000600	"A process where a susceptible organism from a particular species becomes infected by a particular pathogen.  The infection is acquired from an infected organism of a particular species or from a contaminated thing.  
+
+Note that the susceptible and infectious organisms can be of different species.
+
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000131	IAO:0000600	"A fraction of the population known to have undergone a specific event that results in starting or stopping an infectious disease control strategy.
+
+The event could be infection acquisition, vaccination, antiviral treatment, etc.
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000137	IAO:0000600	the number of distinct antigenic strains in a vaccine product @en
+WARN	annotation_whitespace	APOLLO_SV:00000215	IAO:0000115	An information content entity that assigns a probability to each measurable subset of the possible outcomes of a random experiment, survey, or procedure of statistical inference. @en
+WARN	annotation_whitespace	APOLLO_SV:00000215	IAO:0000600	An information content entity that assigns a probability to each measurable subset of the possible outcomes of a random experiment, survey, or procedure of statistical inference. @en
+WARN	annotation_whitespace	APOLLO_SV:00000265	IAO:0000600	"An infection acquisition from an individual who is infectious.
+
+The individual acquiring the infection can be of a different species than the one who is infectious.
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000268	IAO:0000600	"A system of measurement of time with respect to an arbitrary reference point or event, which typically has a measured value of zero elapsed time.
+
+In epidemic simulation, it can be 'simulator time' where time zero is the starting point of an infectious disease scenario, or it can be 'control strategy time' where time zero is the time at which the control strategy is initiated.
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000292	IAO:0000600	"The unit of measure for the supply schedule of an individual treatment.
+
+For example, 'daily dose'.
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000296	IAO:0000600	"A specification of the criteria an organism must meet to be considered to be in some abnormal state.
+
+The abnormal state could be having a disease, carrier status, a syndrome, a structural abnormality (e.g., congenital heart defect), and so on.
+@en"
+WARN	annotation_whitespace	APOLLO_SV:00000319	IAO:0000118	"National Library of Medicine Identifier
+@en"
+WARN	duplicate_label_synonym	APOLLO_SV:00000595	IAO:0000118	treatment facility census@en
+WARN	equivalent_class_axiom_no_genus	APOLLO_SV:00000560	IAO:0000136	APOLLO_SV:00000298
+WARN	missing_definition	APOLLO_SV:00000018	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000019	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000020	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000021	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000027	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000030	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000034	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000044	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000056	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000062	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000102	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000110	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000118	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000132	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000140	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000141	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000144	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000158	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000163	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000168	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000169	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000170	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000176	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000182	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000196	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000197	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000200	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000202	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000236	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000250	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000251	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000252	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000253	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000273	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000274	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000275	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000276	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000288	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000289	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000307	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000319	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000320	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000321	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000324	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000329	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000385	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000386	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000395	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000488	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000561	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000562	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000565	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000590	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000606	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000793	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000794	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00000795	IAO:0000115	
+WARN	missing_definition	APOLLO_SV:00001008	IAO:0000115	
+WARN	missing_obsolete_label	APOLLO_SV:00000004	rdfs:label	basis of@en
+WARN	missing_obsolete_label	APOLLO_SV:00000011	rdfs:label	control strategy reactive start time information@en
+WARN	missing_obsolete_label	APOLLO_SV:00000076	rdfs:label	μ@en
+WARN	missing_obsolete_label	APOLLO_SV:00000077	rdfs:label	σ@en
+WARN	missing_obsolete_label	APOLLO_SV:00000079	rdfs:label	deprecated log normal distribution@en
+WARN	missing_obsolete_label	APOLLO_SV:00000095	rdfs:label	deprecated discrete probability distribution
+WARN	missing_obsolete_label	APOLLO_SV:00000116	rdfs:label	causally_precedes@en
+WARN	missing_obsolete_label	APOLLO_SV:00000125	rdfs:label	school calendar@en
+WARN	missing_obsolete_label	APOLLO_SV:00000143	rdfs:label	vaccine disposition@en
+WARN	missing_obsolete_label	APOLLO_SV:00000146	rdfs:label	beta@en
+WARN	missing_obsolete_label	APOLLO_SV:00000148	rdfs:label	random number seed@en
+WARN	missing_obsolete_label	APOLLO_SV:00000161	rdfs:label	MIDAS scenario@en
+WARN	missing_obsolete_label	APOLLO_SV:00000198	rdfs:label	agent model ecosystem census description@en
+WARN	missing_obsolete_label	APOLLO_SV:00000199	rdfs:label	compartment model population and environment census@en
+WARN	missing_obsolete_label	APOLLO_SV:00000249	rdfs:label	nonparametric probability distribution@en
+WARN	missing_obsolete_label	APOLLO_SV:00000370	rdfs:label	deprecated homeostasis@en
+WARN	missing_obsolete_label	APOLLO_SV:00000399	rdfs:label	deprecated infection case count@en
+WARN	missing_obsolete_label	APOLLO_SV:00000435	rdfs:label	closure period@en
+WARN	missing_obsolete_label	APOLLO_SV:00000475	rdfs:label	gonotrophic period duration@en
+WARN	missing_obsolete_label	APOLLO_SV:00000496	rdfs:label	ORCID@en
+WARN	missing_xrefs	APOLLO_SV:00000000	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000001	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000002	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000003	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000005	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000006	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000007	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000008	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000009	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000010	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000012	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000013	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000014	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000015	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000016	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000017	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000018	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000019	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000020	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000021	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000022	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000023	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000024	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000025	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000026	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000027	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000029	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000030	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000031	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000032	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000033	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000034	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000035	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000036	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000037	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000038	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000039	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000040	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000041	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000042	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000043	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000044	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000046	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000047	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000048	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000049	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000050	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000051	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000052	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000053	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000054	oboInOwl:hasDbXref	
+WARN	missing_xrefs	APOLLO_SV:00000055	oboInOwl:hasDbXref	
