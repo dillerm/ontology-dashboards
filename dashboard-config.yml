@@ -4,7 +4,7 @@ ontologies:
   custom:
     - id: tmp
       mirror_from: "https://raw.githubusercontent.com/monarch-ebi-dev/robot_tests/master/custom-dashboard.owl"
-    - id: apollo-sv
+    - id: apollo_sv
     - id: omrse
 prefer_base: True
 profile:
