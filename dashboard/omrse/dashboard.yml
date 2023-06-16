@@ -4,7 +4,7 @@ base_prefixes:
 - OMRSEALT
 - OMRSE
 changed: true
-date: 2023-06-13 08:33:45.971079
+date: 2023-06-16 22:51:14.772209
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 1357
@@ -39,10 +39,10 @@ metrics:
   'Info: Experimental OBO score':
     _dashboard: 0.838
     _formula: (3*impact+2*dashboard)/5
-    _impact: 0.333
+    _impact: 0.25
     _impact_external: 0
     _reuse: 0.259
-    oboscore: 0.535
+    oboscore: 0.485
   'Info: How many externally documented uses?': 0
   'Info: How many ontologies use it?': 1
   'Info: Logical consistency': true
