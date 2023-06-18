@@ -1,0 +1,6 @@
+base_generated: false
+changed: true
+failure: failed_robot_base
+mirror_from: http://purl.obolibrary.org/obo/dron/dron-base.owl
+namespace: dron
+sha256_hash: 49da817307b72f60482df3157ca45e5963e55b0a92058f24200aad6e72b2aed8

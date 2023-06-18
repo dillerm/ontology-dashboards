@@ -4,7 +4,7 @@ base_prefixes:
 - APOLLO_SVALT
 - APOLLO_SV
 changed: true
-date: 2023-06-13 08:33:40.885941
+date: 2023-06-16 22:51:08.827072
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 11598
@@ -57,12 +57,12 @@ metrics:
     ObjectUnionOf: 28
   'Info: Does the ontology fall under OWL 2 DL?': true
   'Info: Experimental OBO score':
-    _dashboard: 0.816
+    _dashboard: 0.882
     _formula: (3*impact+2*dashboard)/5
-    _impact: 0.333
+    _impact: 0.25
     _impact_external: 0.25
     _reuse: 0.699
-    oboscore: 0.526
+    oboscore: 0.503
   'Info: How many externally documented uses?': 1
   'Info: How many ontologies use it?': 1
   'Info: Logical consistency': true
@@ -118,8 +118,7 @@ results:
   FP03 URIs:
     status: PASS
   FP04 Versioning:
-    comment: Version IRI does not resolve
-    status: ERROR
+    status: PASS
   FP05 Scope:
     status: PASS
   FP06 Textual Definitions:
@@ -151,10 +150,10 @@ results:
     status: WARN
 sha256_hash: abf654dfed3987bdacdefd08844f0b91d916151463803616a1f3c92977129dfa
 summary:
-  comment: 1 errors
-  status: ERROR
+  comment: 2 warnings
+  status: WARN
   summary_count:
-    ERROR: 1
+    ERROR: 0
     INFO: 1
     WARN: 2
 version: http://purl.obolibrary.org/obo/apollo_sv/releases/2023-06-02/apollo_sv.owl
