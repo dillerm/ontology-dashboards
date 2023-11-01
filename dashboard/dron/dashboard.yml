@@ -3,4 +3,4 @@ changed: true
 failure: failed_robot_base
 mirror_from: http://purl.obolibrary.org/obo/dron/dron-base.owl
 namespace: dron
-sha256_hash: 49da817307b72f60482df3157ca45e5963e55b0a92058f24200aad6e72b2aed8
+sha256_hash: 915e8c724f0171f5439a455b849bc58b30896920ba4ed52e49f9411460c90e87
