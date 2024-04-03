@@ -4,7 +4,7 @@ base_prefixes:
 - APOLLO_SVALT
 - APOLLO_SV
 changed: true
-date: 2023-08-01 05:54:06.471038
+date: 2023-12-01 05:58:30.751871
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 11598
@@ -59,12 +59,12 @@ metrics:
   'Info: Experimental OBO score':
     _dashboard: 0.882
     _formula: (3*impact+2*dashboard)/5
-    _impact: 0.25
+    _impact: 0.5
     _impact_external: 0.25
     _reuse: 0.699
-    oboscore: 0.503
+    oboscore: 0.653
   'Info: How many externally documented uses?': 1
-  'Info: How many ontologies use it?': 1
+  'Info: How many ontologies use it?': 2
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
@@ -107,6 +107,7 @@ metrics:
     skos: 3
     xsd: 12
   'Info: Which ontologies use it?':
+  - dron
   - omrse
 mirror_from: http://purl.obolibrary.org/obo/apollo_sv.owl
 namespace: apollo_sv
